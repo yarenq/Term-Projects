@@ -1,0 +1,15 @@
+Problem Definition
+General Problem Definition: A film inventory application is desired to be developed based on the use of a doubly linked list data structure, where films are sorted by their release year (if the release years are the same, they should be sorted alphabetically by film title). In this context, write Java code that meets the detailed requirements given below.
+Requirements: The following information will be stored for the films in the inventory: You can use an int variable to represent the film's release year. String variables can be used for the film title, genre (adventure, comedy, etc.), and the director's full name. Multiple actors play roles in a film. These actors can be stored in an ArrayList as objects derived from the Actor class, which will be provided with the requirements below. Define all the information related to a film within a class named Movie, and write this class with 3 constructors, getter/setter methods, toString, and any other necessary methods. The Actor class includes information such as the actor's full name, gender, and nationality. The Actor class should also have 3 constructors, getter/setter methods, toString, and any other necessary methods. (Note: According to the Oxford English Dictionary, the word 'actor' can be used for both male and female actors. Therefore, only the Actor class is used, and a variable named 'gender' is defined.)
+In line with this, in the node class (Node) related to the list, in addition to the necessary link fields for the doubly linked list, a variable of the Movie class type will also be defined.
+In your doubly linked list class, define 2 variables representing the head and tail of the list to take advantage of the possible benefits of using a doubly linked list.
+The application should provide the following options to the user:
+1.	Read from the text file named bilgiler.txt as shown below and create the doubly linked list in memory. NOTE-1: The inventory will be created in a sorted manner based on the film release year, and when another film with the same release year is encountered, it will be added in alphabetical order according to the film title.
+bilgiler.txt (Sample Record) 1997,Titanic,Romantic,James Cameron,{(Leonardo DiCaprio,Male,USA)(Kate Winslet,Female,England)} . ... contains records like this.
+2.	The film entered by the user will be added to the list at the appropriate position (See Note-1 above). In other words, an insertion into the doubly linked list will be performed.
+3.	The information of the film with the given name by the user will be displayed on the screen.
+4.	The film with the given name by the user will be deleted from the list. In other words, a deletion from the doubly linked list will be performed.
+5.	All records in the list will be printed starting from the 'head'.
+6.	All records in the list will be printed starting from the 'tail'.
+7.	All film information made before the year 2000 will be displayed.
+8.	EXIT: After the final state of the list is saved to the file named "bilgiler.txt", the application will exit.
