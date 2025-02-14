@@ -44,7 +44,7 @@ class Program
         };
 
         int[][] jaggedArray = CreateMatrix();
-        int[][] sqArray = CreateSquareMatrix(@"C:\Users\lenovo\Downloads\ilmesafe.xlsx");
+        int[][] sqArray = CreateSquareMatrix(@"C:\Users\lenovo\Downloads\distanceInfo.xlsx");
         //MENU
 
         Console.WriteLine("MENU");
