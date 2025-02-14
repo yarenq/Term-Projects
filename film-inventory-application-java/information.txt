@@ -1,0 +1,11 @@
+2009, Avatar, Science Fiction, James Cameron, {(Sam Worthington, Male, Australia)(Zoe Saldana, Female, USA)}
+1997, Titanic, Romance, James Cameron, {(Leonardo DiCaprio, Male, USA)(Kate Winslet, Female, England)}
+1977, Star Wars: Episode IV - A New Hope, Science Fiction, George Lucas, {(Mark Hamill, Male, USA)(Carrie Fisher, Female, USA)}
+1994, Forrest Gump, Drama, Robert Zemeckis, {(Tom Hanks, Male, USA)(Robin Wright, Female, USA)}
+2003, The Lord of the Rings: The Return of the King, Fantasy, Peter Jackson, {(Elijah Wood, Male, USA)(Viggo Mortensen, Male, USA)}
+2008, The Dark Knight, Action, Christopher Nolan, {(Christian Bale, Male, UK)(Heath Ledger, Male, Australia)}
+2010, Inception, Sci-Fi, Christopher Nolan, {(Leonardo DiCaprio, Male, USA)(Ellen Page, Female, Canada)}
+2014, Interstellar, Sci-Fi, Christopher Nolan, {(Matthew McConaughey, Male, USA)(Anne Hathaway, Female, USA)}
+2001, Harry Potter and the Philosopher's Stone, Fantasy, Chris Columbus, {(Daniel Radcliffe, Male, UK)(Emma Watson, Female, UK)}
+1999, The Matrix, Science Fiction, Lana Wachowski, Lilly Wachowski, {(Keanu Reeves, Male, Canada)(Carrie-Anne Moss, Female, Canada)}
+1995, Se7en, Thriller, David Fincher, {(Brad Pitt, Male, USA)(Morgan Freeman, Male, USA)}
