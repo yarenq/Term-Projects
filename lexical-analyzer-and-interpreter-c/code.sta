@@ -1,0 +1,10 @@
+int a,b,c.
+read "First:" a.
+newLine.
+read "Second:" b.
+newLine.
+c is a-b.
+/* this is a comment */
+{}
+c is c/23463453234152435.
+write "Result:" c.
